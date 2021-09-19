@@ -5,17 +5,13 @@ import java.util.List;
 public class BarChart {
 
     private String title;
-
     private String fontName;
     private int fontSize;
     private String fontColor;
-
     private int width;
     private int height;
     private String backgroundColor;
-
     private List<String> data;
-
     private boolean displayTitle;
     private boolean displayLegend;
 
